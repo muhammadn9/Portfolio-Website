@@ -15,7 +15,7 @@ const Resume = () => {
         >
           <Button
             as="a"
-            href="/files/Muhammad-Naseem-Resume.pdf"
+            href="/files/naseem_cv"
             colorScheme="teal"
             size="sm"
             download="Muhammad-Naseem-Resume.pdf"
@@ -51,7 +51,7 @@ const Resume = () => {
                 padding: 0,
                 margin: 0,
               }}
-              src="/files/Muhammad-Naseem-Resume.pdf"
+              src="/files/naseem_cv"
               allowFullScreen
             ></iframe>
           </div>
