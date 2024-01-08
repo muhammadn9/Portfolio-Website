@@ -1,22 +1,28 @@
 "use client";
 import React from "react";
-import {
-    Center,
-    Box,
-    Button
-  } from "@chakra-ui/react";
-  import { AiOutlineDownload } from "react-icons/ai";
+import { Center, Box, Button } from "@chakra-ui/react";
+import { AiOutlineDownload } from "react-icons/ai";
 
 const Resume = () => {
-
   return (
     <>
       <Center>
-        <Box width={["90vw", "90vw", "80vw"]} height="100%" marginTop="2rem" marginBottom="4rem">
-        <Button as="a" href="/files/vaheed_cv.pdf" colorScheme="teal" size="sm" download="Masood_Akhtar_Vaheed_CV">
-              Download&nbsp;
-              <AiOutlineDownload fill="black"/>
-        </Button>
+        <Box
+          width={["90vw", "90vw", "80vw"]}
+          height="100%"
+          marginTop="2rem"
+          marginBottom="4rem"
+        >
+          <Button
+            as="a"
+            href="/files/vaheed_cv.pdf"
+            colorScheme="teal"
+            size="sm"
+            download="Muhammad-Naseem-Resume.pdf"
+          >
+            Download&nbsp;
+            <AiOutlineDownload fill="black" />
+          </Button>
           <div
             style={{
               position: "relative",
