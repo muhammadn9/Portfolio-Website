@@ -15,7 +15,7 @@ const Resume = () => {
         >
           <Button
             as="a"
-            href="/files/vaheed_cv.pdf"
+            href="/files/Muhammad-Naseem-Resume.pdf"
             colorScheme="teal"
             size="sm"
             download="Muhammad-Naseem-Resume.pdf"
@@ -51,7 +51,7 @@ const Resume = () => {
                 padding: 0,
                 margin: 0,
               }}
-              src="https://www.canva.com/design/DAE02jCrTBo/view?embed"
+              src="/files/Muhammad-Naseem-Resume.pdf"
               allowFullScreen
             ></iframe>
           </div>
