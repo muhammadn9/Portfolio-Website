@@ -18,7 +18,7 @@ const Resume = () => {
             href="/files/naseem_cv"
             colorScheme="teal"
             size="sm"
-            download="Muhammad-Naseem-Resume.pdf"
+            download="naseem_cv.pdf"
           >
             Download&nbsp;
             <AiOutlineDownload fill="black" />
@@ -51,7 +51,7 @@ const Resume = () => {
                 padding: 0,
                 margin: 0,
               }}
-              src="/files/naseem_cv"
+              href="/files/naseem_cv.pdf"
               allowFullScreen
             ></iframe>
           </div>
