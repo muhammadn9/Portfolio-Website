@@ -26,6 +26,10 @@ import {
   SiPostman,
   SiGnubash,
   SiNextdotjs,
+  SiSwift,
+  SiKotlin,
+  SiSqlite,
+  SiVisualstudio,
 } from "react-icons/si";
 import { AiFillCode } from "react-icons/ai";
 import { FaHashnode } from "react-icons/fa6";
@@ -117,6 +121,10 @@ export const skillsData = [
     icon: FaSass,
   },
   {
+    name: "Swift",
+    icon: SiSwift,
+  },
+  {
     name: "Bootstrap",
     icon: TbBrandBootstrap,
   },
@@ -136,18 +144,18 @@ export const skillsData = [
     name: "NextJS",
     icon: SiNextdotjs,
   },
-  {
-    name: "Redux",
-    icon: TbBrandRedux,
-  },
+  // {
+  //   name: "Redux",
+  //   icon: TbBrandRedux,
+  // },
   {
     name: "NodeJs",
     icon: FaNodeJs,
   },
-  {
-    name: "PugJs",
-    icon: SiPug,
-  },
+  // {
+  //   name: "PugJs",
+  //   icon: SiPug,
+  // },
   {
     name: "Express",
     icon: SiExpress,
@@ -156,14 +164,14 @@ export const skillsData = [
     name: "Docker",
     icon: FaDocker,
   },
-  {
-    name: "Postgres",
-    icon: BiLogoPostgresql,
-  },
-  {
-    name: "Postman",
-    icon: SiPostman,
-  },
+  // {
+  //   name: "Postgres",
+  //   icon: BiLogoPostgresql,
+  // },
+  // {
+  //   name: "Postman",
+  //   icon: SiPostman,
+  // },
   {
     name: "Git",
     icon: BsGit,
@@ -171,6 +179,10 @@ export const skillsData = [
   {
     name: "Github",
     icon: FaGithub,
+  },
+  {
+    name: "Kotlin",
+    icon: SiKotlin,
   },
   {
     name: "ChatGPT",
@@ -181,8 +193,16 @@ export const skillsData = [
     icon: SiGnubash,
   },
   {
-    name: "Markdown",
-    icon: BsMarkdown,
+    name: "SQlite",
+    icon: SiSqlite,
+  },
+  // {
+  //   name: "Markdown",
+  //   icon: BsMarkdown,
+  // },
+  {
+    name: "VS Code",
+    icon: SiVisualstudio,
   },
 ];
 
