@@ -94,7 +94,8 @@ export default function Home() {
           </RevealWrapper>
           <RevealWrapper className="load-hidden" delay={600}>
             <Heading my={3} size="lg" fontFamily="Righteous">
-              I &apos;m a<span className="typed-text" ref={typedTextRef}></span>
+              I &apos;m a{" "}
+              <span className="typed-text" ref={typedTextRef}></span>
             </Heading>
           </RevealWrapper>
           <RevealWrapper className="load-hidden" delay={700}>
