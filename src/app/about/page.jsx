@@ -45,8 +45,8 @@ const Page = () => {
                 <Text>
                   I&apos;m <span className="name">Muhammad</span>, a passionate
                   software developer. I specialize in{" "}
-                  <span className="tech">Web Development</span>, I am eager to
-                  translate my diverse skills in web development, network
+                  <span className="tech">Web Development</span>, I&apos;m eager
+                  to translate my diverse skills in web development, network
                   engineering, and app design into a full-time role. From
                   conquering hackathons to crafting daily-use apps, my love for
                   tech extends beyond the classroom.
