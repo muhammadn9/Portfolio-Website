@@ -51,7 +51,7 @@ export default function Home() {
           <RevealWrapper className="load-hidden" delay={300}>
             <Image
               objectFit="shrink"
-              src="/images/ar-profile-transformed.png"
+              src="/images/favicon.png"
               alt="profile-image"
               width={["13rem", "13rem", "15rem"]}
               height={["13rem", "13rem", "15rem"]}
