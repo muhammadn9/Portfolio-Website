@@ -45,18 +45,17 @@ const Page = () => {
                 <Text>
                   I&apos;m <span className="name">Muhammad</span>, a passionate
                   software developer. I specialize in{" "}
-                  <span className="tech">Web Development</span>, crafting
-                  seamless user experiences and robust backend solutions. With a
-                  knack for problem-solving, I thrive on creating elegant code
-                  that makes an impact. I&apos;m always exploring new tools and
-                  techniques to stay at the forefront of the ever-evolving tech
-                  landscape.
+                  <span className="tech">Web Development</span>, I am eager to
+                  translate my diverse skills in web development, network
+                  engineering, and app design into a full-time role. From
+                  conquering hackathons to crafting daily-use apps, my love for
+                  tech extends beyond the classroom.
                 </Text>
                 <br />
                 <Text>
                   📫 Open to collaborations and exciting projects, I&apos;m
-                  eager to connect with fellow developers and tech enthusiasts.
-                  Let&apos;s build something amazing together!
+                  excited to join a team where I can collaborate, innovate, and
+                  contribute to meaningful projects. Let's connect!
                 </Text>
                 <Text>
                   Happy coding! 🖥️

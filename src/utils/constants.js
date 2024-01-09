@@ -36,6 +36,7 @@ import {
   BsFileBarGraph,
   BsGit,
   BsMarkdown,
+  BsFillPhoneVibrateFill,
 } from "react-icons/bs";
 import { GiArchiveResearch, GiArtificialIntelligence } from "react-icons/gi";
 import { FcElectronics } from "react-icons/fc";
@@ -60,14 +61,14 @@ export const interestsData = [
     interest: "Tech Blog",
     icon: FaHashnode,
   },
-  {
-    interest: "Internet of Things",
-    icon: FcElectronics,
-  },
-  {
-    interest: "Market Research",
-    icon: GiArchiveResearch,
-  },
+  // {
+  //   interest: "Internet of Things",
+  //   icon: FcElectronics,
+  // },
+  // {
+  //   interest: "Market Research",
+  //   icon: GiArchiveResearch,
+  // },
   {
     interest: "Visualization",
     icon: BsFileBarGraph,
@@ -83,6 +84,10 @@ export const interestsData = [
   {
     interest: "Web Scraping",
     icon: BsGlobe,
+  },
+  {
+    interest: "App Development",
+    icon: BsFillPhoneVibrateFill,
   },
 ];
 
