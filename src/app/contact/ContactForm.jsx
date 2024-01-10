@@ -14,13 +14,13 @@ import {
   Flex,
   Heading,
   Icon,
-  Stack
+  Stack,
 } from "@chakra-ui/react";
 import { BsFillSendFill } from "react-icons/bs";
 import RadioCard from "../../components/RadioCards";
 import { useForm } from "react-hook-form";
 import { useToast } from "@chakra-ui/react";
-import { RevealWrapper } from 'next-reveal'
+import { RevealWrapper } from "next-reveal";
 
 const ContactForm = () => {
   const toast = useToast();
@@ -36,7 +36,7 @@ const ContactForm = () => {
     handleSubmit,
     register,
     formState: { errors },
-    reset
+    reset,
   } = useForm();
   const [isLoading, setIsLoading] = useState(false);
 
@@ -87,7 +87,7 @@ const ContactForm = () => {
 
   return (
     <>
-    <RevealWrapper className="load-hidden" delay={600}>
+      {/* <RevealWrapper className="load-hidden" delay={600}>
       <Card className="contact-form-card" borderRadius="2rem" backgroundColor="white" padding="10px 15px">
         <CardBody>
           <Heading size="md" color="black" my={3}>
@@ -167,7 +167,7 @@ const ContactForm = () => {
           </Stack>
         </CardBody>
       </Card>
-    </RevealWrapper>
+    </RevealWrapper> */}
     </>
   );
 };
