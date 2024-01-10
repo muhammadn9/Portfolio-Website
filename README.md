@@ -1,12 +1,12 @@
 # ⭐ Personal Portfolio Website ⭐
 
-> [Deployed here](https://vaheedshaik.tech/)
+> [Deployed here]((https://muhammad-naseem-portfolio-website.vercel.app/))
 
 ⭐ Star me on GitHub and do follow ⭐
 
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/vaheedsk36/portfolio-website-nextjs/commits/main)
-[![Website](https://img.shields.io/badge/website-up-yellow)](https://vaheedshaik.tech/)
-[![Message](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk36)
+[![Website](https://img.shields.io/badge/website-up-yellow)]((https://muhammad-naseem-portfolio-website.vercel.app/))
+[![Message](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/muhammad-naseem-14b035218/))
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat&logo)](http://badges.mit-license.org)
 
 ## Note
@@ -15,11 +15,11 @@
 
 ## Conditions of usage
 
-- Follow me on [github](https://github.com/vaheedsk36)
-- Follow me on [linkedin](https://www.linkedin.com/in/sk36/) (if you want to)
+- Follow me on [github](https://github.com/muhammadn9)
+- Follow me on [linkedin](https://www.linkedin.com/in/muhammad-naseem-14b035218/) (if you want to)
 - Star this project on github
 - Don't claim this work as you origin, wherever you post it
-- Give due credits to me wherever you are showcasing this project
+- Give due credits to me wherever you are showcasing this project (Credits to vaheedsk36 on Github)
 
 ## Tech Stack and Services Used 🛠️
 
