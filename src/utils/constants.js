@@ -208,45 +208,88 @@ export const skillsData = [
 
 export const workData = [
   {
-    company: "1Digitalstack.ai",
-    designation: "Software Engineer 1",
-    duration: "March 2022 - Present",
-    companyImg: "1ds.jpg",
+    company: "Oakland University - Student Congress",
+    designation: "Director of Software and Technology",
+    duration: "June 2023 - Present",
+    companyImg: "OUSCLogo.png",
     description: (
       <>
         <ul>
           <li>
-            I work on Reviniti, an analytics product designed for e-commerce
-            players in the bid management domain. Solely migrated the old
-            codebase from a templating engine (PugJS) to React with TypeScript.
+            Responsible for overseeing and spearheading the implementation of
+            university-wide IT projects aimed at enhancing the technology
+            infrastructure and services available to all students campus-wide.
           </li>
           <li>
-            Engaged in developing new features, refactoring code, enhancing
-            product performance, bug fixes and contributing towards achieving
-            high scalability for the product.
+            Developed and launched a comprehensive website for the student
+            congress, serving as the primary online platform for departmental
+            information, resources, and announcements.
+          </li>
+          <li>
+            Currently spearheading the development of an innovative Android
+            application aimed at recyclable item recognition through real-time
+            image analysis via smartphone camera technology.
+          </li>
+          <li>
+            Contributed 5K+ lines of code to a developing codebase via Git
+          </li>
+          <li>
+            Systematically manage the scheduling and setup of virtual conference
+            meetings on a regular basis for the department, ensuring seamless
+            communication and collaboration among team members and external
+            stakeholders.
           </li>
         </ul>
       </>
     ),
   },
   {
-    company: "Fact.MR",
-    designation: "Associate Consultant Level 01",
-    duration: "Dec 2020 - July 2021",
-    companyImg: "fmr.svg",
+    company: "Comau LLC",
+    designation: "IT Infrastrcture Intern",
+    duration: "July 2023 - Sept. 2023",
+    companyImg: "ComauLLC.jpeg",
     description: (
       <>
         <ul>
           <li>
-            Engaged in creating comprehensive client-specific and syndicated
-            research reports, along with SEO-focused articles and collateral
-            materials within the domains of chemicals, materials, consumer
-            goods, and industrial goods.
+            Contributed to network infrastructure configuration and maintenance,
+            enhancing reliability, and provided end-user support for hardware
+            and software issues, ensuring improved IT system performance and
+            user satisfaction.
           </li>
           <li>
-            Expertly estimated market valuations and conducted primary research
-            in collaboration with industry experts to validate data, extract
-            valuable market insights.
+            Assisted in server maintenance tasks, including software updates,
+            patches, and hardware upgrades.
+          </li>
+          <li>
+            Participated in virtualization projects, such as setting up and
+            managing virtual machines using VMware and Hyper-V.
+          </li>
+        </ul>
+      </>
+    ),
+  },
+  {
+    company: "Oakland University",
+    designation: "Lead Student Network Engineer",
+    duration: "Dec. 2022 - July 2023",
+    companyImg: "OU.jpeg",
+    description: (
+      <>
+        <ul>
+          <li>
+            Use Unix, Mac, Windows software, and CISCO IOS systems to complete
+            day-to-day tasks.
+          </li>
+          <li>
+            Perform 2nd tier network and telephone help-desk tickets,
+            troubleshooting issues, activating data ports, performing switch
+            configuration, monitoring network performance using network
+            diagnostic tools.
+          </li>
+          <li>
+            Resolve network issues and participate in other network technology
+            projects as assigned by University Staff.
           </li>
         </ul>
       </>
